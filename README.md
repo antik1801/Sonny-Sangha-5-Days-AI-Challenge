@@ -22,6 +22,10 @@ https://ai-challenge-agent.vercel.app/
 ```
 https://github.com/antik1801/Sonny-Sangha-5-Days-AI-Challenge
 ```
+## ENV add to Production: 
+```
+https://vercel.com/antik1801s-projects/ai-challenge-agent/settings/environment-variables 
+```
 
 ## Technology used: 
 <ul>
