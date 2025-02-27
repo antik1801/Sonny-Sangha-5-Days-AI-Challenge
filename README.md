@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Developer's Word 
+<div style="display: flex; align-items: center;">
+    <img src="https://i.ibb.co.com/VBL3pff/ANTIK-new.jpg" style="width: 35%; height: auto; margin-right: 5px;" />
+    <div>
+        <p><strong>Hello I am Gazi Ehsanul Haque, a software developer. The AI agents is a sonny sangha AI challenge specially for AI challenges. The idea was taken from <a href="https://www.youtube.com/watch?v=js5RNjxDYeg&list=PLf16UKl7nR5DeQY4aGokel93FddWYVu0S&index=3">Sonny Sangha's YouTube</a>. With a little bit of addition, I have repolished it.</strong></p>
+    </div>
+</div>
+<div>
+    <p>Please contact me if you encounter any problems</p>
+    <ul>
+    <li class="display:flex; align-items: center;"><a href="https://www.linkedin.com/in/gaziehsanul/">linkedin.com/in/gaziehsanul/</a> </li>
+    <li class="display:flex; align-items: center;">antik.edu@gmail.com</li>
+    <li class="display:flex; align-items: center;">+88-01869694519</li>
+    </ul>
+</div>
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## Live Link: 
+```
+https://ai-challenge-agent.vercel.app/ 
+```
+## Github Link: 
+```
+https://github.com/antik1801/Notion-Clone-2.0 
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Technology used: 
+<ul>
+    <li>NextJS</li>
+    <li>TailwindCSS</li>
+    <li>ShadCN</li>
+    <li><a href="https://clerk.com/">Clerk Authentication</a></li>
+    <li>Firebase</li>
+    <li>Firestore Database</li>
+    <li>Firestore Admin</li>
+    <li>Context API</li>
+    <li><a href="https://liveblocks.io/">BlockNotes</a></li>
+</ul>
