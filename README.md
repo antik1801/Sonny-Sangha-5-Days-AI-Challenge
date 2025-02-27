@@ -20,7 +20,7 @@ https://ai-challenge-agent.vercel.app/
 ```
 ## Github Link: 
 ```
-https://github.com/antik1801/Notion-Clone-2.0 
+https://github.com/antik1801/Sonny-Sangha-5-Days-AI-Challenge
 ```
 
 ## Technology used: 
